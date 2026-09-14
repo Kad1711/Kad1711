@@ -1,37 +1,68 @@
-<h1 align="center">👋 Xin chào, tôi là Nguyễn Khả Dương</h1>
+<h1 align="center">
+  👋 Xin chào, tôi là <b>Nguyễn Khả Dương</b>
+</h1>
 
-<h3 align="center">Software Developer • Full-stack Web • Mobile • AI/CV</h3>
+<h3 align="center">
+  Software Developer • Full-stack Web • Mobile • AI / Computer Vision
+</h3>
 
 <p align="center">
-  Tôi yêu thích xây dựng các ứng dụng thực tế, phát triển hệ thống Full-stack
-  và khám phá cách tích hợp AI vào các sản phẩm phần mềm.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;Android+Developer;AI+%26+Computer+Vision+Explorer;Vietnamese+Handwriting+Recognition;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
-  🌐 Web Development &nbsp;•&nbsp;
-  📱 Android Development &nbsp;•&nbsp;
-  🤖 AI & Computer Vision
+  <img src="https://komarev.com/ghpvc/?username=Kad1711&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Kad1711?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 Giới thiệu
+# 👨‍💻 About Me
 
-- 💻 Tập trung phát triển các ứng dụng **Full-stack Web**
-- 📱 Phát triển ứng dụng Android với **Kotlin, Java & Jetpack Compose**
-- 🤖 Quan tâm đến **AI, Computer Vision, HTR và RAG**
-- 💬 Đã xây dựng **chatbot tư vấn sản phẩm** kết nối với dữ liệu thực tế
-- 🧠 Đang phát triển hệ thống **nhận diện và số hóa chữ viết tay tiếng Việt**
-- 🚀 Có kinh nghiệm triển khai ứng dụng với **Render & Firebase**
-- 🌱 Luôn học hỏi và thử nghiệm các công nghệ mới
+```yaml
+name: Nguyễn Khả Dương
+location: Vietnam 🇻🇳
+
+role:
+  - Software Developer
+  - Full-stack Web Developer
+
+interests:
+  - Web Development
+  - Android Development
+  - Artificial Intelligence
+  - Computer Vision
+  - Handwriting Text Recognition
+  - RAG & AI Integration
+
+currently_building:
+  - Vietnamese Handwriting Recognition System
+
+currently_learning:
+  - Computer Vision
+  - HTR
+  - RAG
+  - AI Integration
+
+goal:
+  - Build practical software products with AI integration
+```
+
+* 💻 Tập trung xây dựng các ứng dụng **Full-stack Web**
+* 📱 Phát triển ứng dụng Android với **Kotlin, Java và Jetpack Compose**
+* 🤖 Quan tâm đến **AI, Computer Vision, HTR và RAG**
+* 💬 Đã xây dựng chatbot tư vấn sản phẩm kết nối trực tiếp với dữ liệu thực tế
+* ✍️ Đang nghiên cứu hệ thống **nhận diện và số hóa chữ viết tay tiếng Việt**
+* 🚀 Có kinh nghiệm triển khai ứng dụng với **Render, Firebase, MongoDB Atlas và Cloudinary**
+* 🌱 Luôn thử nghiệm công nghệ mới và đưa chúng vào các sản phẩm thực tế
 
 ---
 
-# 🛠️ Công nghệ & Công cụ
+# 🛠️ Tech Stack
 
 ## 🌐 Frontend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,sass,vite" />
 </p>
 
@@ -41,17 +72,17 @@
 
 ## ⚙️ Backend & API
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-`Node.js` • `Express.js` • `REST API` • `JWT Authentication` • `Session Authentication` • `Cloudinary`
+`Node.js` • `Express.js` • `REST API` • `JWT Authentication` • `Session Authentication`
 
 ---
 
 ## 🗄️ Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
@@ -61,7 +92,7 @@
 
 ## 📱 Mobile Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" />
 </p>
 
@@ -71,7 +102,7 @@
 
 ## 🤖 AI & Computer Vision
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
@@ -79,9 +110,9 @@
 
 ---
 
-## ☁️ Deploy & Services
+## ☁️ Cloud & Deployment
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
@@ -89,9 +120,9 @@
 
 ---
 
-## 🎨 Design & Development Tools
+## 🔧 Development Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,postman" />
 </p>
 
@@ -99,128 +130,164 @@
 
 ---
 
-# 🚀 Dự án nổi bật
+# 🚀 Featured Projects
 
 ## 📱 PhoneStore AI
 
-Website thương mại điện tử bán điện thoại tích hợp **chatbot tư vấn thông minh**, hỗ trợ tìm kiếm và tư vấn sản phẩm dựa trên dữ liệu thực tế trong hệ thống.
+> **E-commerce Website + AI Product Recommendation Chatbot**
 
-**Công nghệ:**
+Website thương mại điện tử bán điện thoại tích hợp chatbot hỗ trợ tìm kiếm và tư vấn sản phẩm dựa trên dữ liệu thực tế trong hệ thống.
+
+### 🧰 Tech Stack
 
 `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `Handlebars` • `JavaScript` • `LM Studio`
 
-### ✨ Điểm nổi bật
+### ✨ Highlights
 
-- 🛒 Website thương mại điện tử bán điện thoại và phụ kiện
-- 🔐 Đăng ký, đăng nhập và quản lý người dùng
-- 📱 Quản lý sản phẩm, danh mục và phiên bản sản phẩm
-- 🛠️ Hệ thống Admin Dashboard
-- 💬 Chatbot tư vấn sản phẩm
-- 🔍 Nhận diện tên máy, màu sắc và dung lượng từ câu hỏi
-- 🧠 Truy vấn dữ liệu sản phẩm trực tiếp từ MongoDB
-- 📦 Kiểm tra phiên bản và tình trạng sản phẩm
-- 🤖 Hỗ trợ kết nối Local LLM thông qua LM Studio
-- 💾 Lưu lịch sử hội thoại
+* 🛒 Website thương mại điện tử bán điện thoại và phụ kiện
+* 🔐 Authentication & User Management
+* 📱 Product / Category / Variant Management
+* 🛠️ Admin Dashboard
+* 💬 AI Product Recommendation Chatbot
+* 🔍 Nhận diện tên máy, màu sắc và dung lượng từ câu hỏi
+* 🧠 Truy vấn dữ liệu sản phẩm trực tiếp từ MongoDB
+* 📦 Kiểm tra phiên bản và tình trạng sản phẩm
+* 🤖 Local LLM Integration qua LM Studio
+* 💾 Conversation History
 
-🔗 **[Xem repository](https://github.com/Kad1711/PhoneStore-AI)**
+<p>
+  <a href="https://github.com/Kad1711/PhoneStore-AI">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-> 🚀 Hướng phát triển: RAG, Semantic Search và cá nhân hóa gợi ý sản phẩm.
+> 🚀 Future: `RAG` • `Semantic Search` • `Personalized Recommendation`
 
 ---
 
 ## 🎧 Spotify Fullstack Clone
 
-Ứng dụng nghe nhạc Full-stack kết hợp **Android Client, Backend REST API, MongoDB và Admin Dashboard**.
+> **Android Client + REST API + MongoDB + Admin Dashboard**
 
-**Công nghệ:**
+Ứng dụng nghe nhạc Full-stack kết hợp Android Client với Backend REST API.
 
-`Kotlin` • `Java` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `REST API`
+### 🧰 Tech Stack
 
-### ✨ Điểm nổi bật
+`Kotlin` • `Java` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT`
 
-- 🔐 Đăng ký / đăng nhập
-- 🎵 Phát và tìm kiếm bài hát
-- ❤️ Quản lý bài hát yêu thích
-- 📂 Quản lý playlist
-- 🛠️ Admin Dashboard
-- 📤 Upload và quản lý nội dung âm nhạc
-- 🌐 Android Client giao tiếp với Backend thông qua REST API
+### ✨ Highlights
 
-🔗 **[Xem repository](https://github.com/spotify-clone-team/Spotify_Fullstack_Clone)**
+* 🔐 Register / Login
+* 🎵 Music Playback
+* 🔎 Search Songs
+* ❤️ Favorite Songs
+* 📂 Playlist Management
+* 🛠️ Admin Dashboard
+* 📤 Upload & Manage Music
+* 🌐 Android Client giao tiếp với Backend thông qua REST API
+
+<p>
+  <a href="https://github.com/spotify-clone-team/Spotify_Fullstack_Clone">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🏛️ Website Di Sản Văn Hóa
+## 🏛️ Vietnamese Cultural Heritage Platform
 
-Nền tảng Full-stack hỗ trợ giới thiệu, quản lý và khám phá **di sản văn hóa Việt Nam**.
+> **Full-stack Web Platform for Vietnamese Cultural Heritage**
 
-**Công nghệ:**
+Nền tảng hỗ trợ giới thiệu, quản lý và khám phá các giá trị di sản văn hóa Việt Nam.
+
+### 🧰 Tech Stack
 
 `React` • `JavaScript` • `Node.js` • `MongoDB` • `Cloudinary`
 
-### ✨ Điểm nổi bật
+### ✨ Highlights
 
-- 🏛️ Quản lý và trình bày nội dung di sản văn hóa
-- 🖼️ Quản lý hình ảnh với Cloudinary
-- 🗺️ Tích hợp bản đồ
-- ⚙️ Backend API
-- 📱 Responsive Web Design
-- ☁️ Triển khai ứng dụng thực tế
+* 🏛️ Cultural Heritage Management
+* 🖼️ Cloudinary Image Management
+* 🗺️ Map Integration
+* ⚙️ Backend API
+* 📱 Responsive Web Design
+* ☁️ Production Deployment
 
-🔗 **[Xem repository](https://github.com/Kad1711/Website_DiSanVanHoa)**
+<p>
+  <a href="https://github.com/Kad1711/Website_DiSanVanHoa">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 📱 UED Focus Keeper
 
-Ứng dụng Android hỗ trợ sinh viên **quản lý thời gian học tập và duy trì sự tập trung** theo phương pháp Pomodoro.
+> **Android Pomodoro Productivity Application**
 
-**Công nghệ:**
+Ứng dụng hỗ trợ sinh viên quản lý thời gian học tập và duy trì sự tập trung.
+
+### 🧰 Tech Stack
 
 `Kotlin` • `Jetpack Compose` • `Android Studio`
 
-### ✨ Điểm nổi bật
+### ✨ Highlights
 
-- ⏱️ Pomodoro Timer
-- 📚 Hỗ trợ quản lý thời gian học tập
-- 🎯 Theo dõi quá trình tập trung
-- 📱 Giao diện Android hiện đại với Jetpack Compose
+* ⏱️ Pomodoro Timer
+* 📚 Study Time Management
+* 🎯 Focus Tracking
+* 📱 Modern Android UI with Jetpack Compose
 
-🔗 **[Xem repository](https://github.com/Kad1711/UEDFocusKeeper)**
+<p>
+  <a href="https://github.com/Kad1711/UEDFocusKeeper">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-# 🔬 Dự án đang phát triển
+# 🔬 Currently Building
 
-## ✍️ Nhận diện & Số hóa chữ viết tay tiếng Việt
+## ✍️ Vietnamese Handwriting Recognition System
 
-Hệ thống hỗ trợ **nhận diện và số hóa chữ viết tay tiếng Việt** từ bài làm tự luận và các biểu mẫu/tài liệu viết tay.
+> **Web Application + AI / Computer Vision**
 
-Đây là dự án mình đang phát triển theo hướng kết hợp **Web Application + AI/Computer Vision**.
+Hệ thống hỗ trợ nhận diện và số hóa chữ viết tay tiếng Việt từ bài làm tự luận, biểu mẫu và tài liệu viết tay.
 
-**Định hướng công nghệ:**
+### 🧰 Technology Direction
 
 `Python` • `Computer Vision` • `HTR` • `React` • `Node.js` • `MongoDB`
 
-### 🎯 Mục tiêu
+### 🎯 Goals
 
-- 📄 Upload ảnh hoặc tài liệu viết tay
-- 🔍 Tiền xử lý hình ảnh
-- ✍️ Nhận diện chữ viết tay tiếng Việt
-- 📝 Chuyển đổi chữ viết tay thành văn bản số
-- ✏️ Cho phép kiểm tra và chỉnh sửa kết quả nhận diện
-- 🌐 Quản lý tài liệu và kết quả thông qua Web
-- 🤖 Nghiên cứu tích hợp AI hỗ trợ xử lý tài liệu
+* 📄 Upload ảnh / tài liệu viết tay
+* 🖼️ Image preprocessing
+* 🔍 Document analysis
+* ✍️ Vietnamese Handwriting Recognition
+* 📝 Convert handwriting → digital text
+* ✏️ Human verification & correction
+* 🌐 Web-based document management
+* 🤖 AI-assisted document processing
 
-> 🚧 **Trạng thái:** Đang nghiên cứu và phát triển.
+### 🚧 Status
+
+```text
+Research        ████████░░ 80%
+Web System      ██████░░░░ 60%
+Computer Vision █████░░░░░ 50%
+HTR Model       ███░░░░░░░ 30%
+RAG Integration ██░░░░░░░░ 20%
+```
+
+> 🚧 **Status: Research & Development**
 
 ---
 
-# 📊 Hoạt động GitHub
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kad1711&show_icons=true&hide_border=true&locale=vi"
+    src="https://github-readme-stats.vercel.app/api?username=Kad1711&show_icons=true&hide_border=true&locale=en"
     height="165"
   />
   <img
@@ -229,42 +296,72 @@ Hệ thống hỗ trợ **nhận diện và số hóa chữ viết tay tiếng V
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Kad1711&hide_border=true"
+  />
+</p>
+
 ---
 
-# 🎯 Hiện tại tôi đang tập trung vào
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kad1711&hide_border=true&area=true"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kad1711/Kad1711/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```text
 🌐 Full-stack Web Development
 📱 Android Development
-🤖 AI & Computer Vision
+🤖 Artificial Intelligence
+👁️ Computer Vision
 ✍️ Vietnamese Handwriting Recognition
 🧠 RAG & AI Integration
+🚀 Building real-world applications
 ```
 
 ---
 
-# 📫 Liên hệ
+# 📫 Connect With Me
 
-<p>
-  📧 <b>Email:</b>
-  <a href="mailto:nguyenkhaduong17@gmail.com">
-    nguyenkhaduong17@gmail.com
-  </a>
-</p>
+<p align="center">
 
-<p>
-  💻 <b>GitHub:</b>
-  <a href="https://github.com/Kad1711">
-    github.com/Kad1711
-  </a>
+<a href="mailto:nguyenkhaduong17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-nguyenkhaduong17-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Kad1711">
+  <img src="https://img.shields.io/badge/GitHub-Kad1711-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 ---
 
+<h3 align="center">
+  💻 Build • Learn • Improve
+</h3>
+
 <p align="center">
-  <b>💻 Xây dựng • Học hỏi • Cải tiến</b>
+  <i>
+    Turning ideas into practical software products.
+  </i>
 </p>
 
 <p align="center">
-  Cảm ơn bạn đã ghé thăm GitHub của tôi! 👋
+  ⭐ Cảm ơn bạn đã ghé thăm GitHub của tôi!
 </p>
