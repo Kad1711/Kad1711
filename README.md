@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Xin chào, tôi là <b>Nguyễn Khả Dương</b>
+  Xin chào, mình là <b>Nguyễn Khả Dương</b>
 </h1>
 
 <h3 align="center">
-  Software Developer • Full-stack Web • Mobile • AI / Computer Vision
+  Software Developer • Mobile • AI / Computer Vision
 </h3>
 
 <p align="center">
