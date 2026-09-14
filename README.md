@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;Android+Developer;AI+%26+Computer+Vision+Explorer;Vietnamese+Handwriting+Recognition;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-stack+Vibecoding+Developer;Android+Developer;AI+%26+Computer+Vision+Explorer;Vietnamese+Handwriting+Recognition;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
